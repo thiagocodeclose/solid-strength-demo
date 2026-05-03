@@ -363,7 +363,7 @@ export default function SolidPage() {
         {/* Right — copy */}
         <div className="so-hero-copy-panel">
           <div className="so-hero-tag">San Francisco, CA</div>
-          <h1 className="so-hero-title">
+          <h1 data-cg-el="hero_headline_1" className="so-hero-title">
             Reformer<br />Strength<br /><em>Redefined.</em>
           </h1>
           <p className="so-hero-sub">
