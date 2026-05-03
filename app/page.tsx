@@ -366,12 +366,12 @@ export default function SolidPage() {
           <h1 data-cg-el="hero_headline_1" className="so-hero-title">
             Reformer<br />Strength<br /><em>Redefined.</em>
           </h1>
-          <p className="so-hero-sub">
+          <p data-cg-el="hero_subtitle" className="so-hero-sub">
             Spring-loaded resistance. Precision coaching. 45 minutes that will change the way you think about Pilates — and your body.
           </p>
           <div className="so-hero-actions">
-            <a href="#pricing" className="so-btn-primary">First Class Free</a>
-            <a href="#classes" className="so-btn-ghost">View Schedule</a>
+            <a data-cg-el="hero_cta_primary" href="#pricing" className="so-btn-primary">First Class Free</a>
+            <a data-cg-el="hero_cta_secondary" href="#classes" className="so-btn-ghost">View Schedule</a>
           </div>
 
           <div className="so-hero-stats">
